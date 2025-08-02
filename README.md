@@ -1,5 +1,14 @@
 # 💫 About Me:
-btech student in presidency university <br>
+I'm a final year Information Science and Technology student at Presidency University, passionate about technology, problem-solving, and continuous learning.
+With a strong foundation in programming, web development, and data structures, I enjoy building creative tech solutions and collaborating on real-world projects. I’ve gained hands-on experience through academic projects, internships, and personal learning—particularly in  Java, and frontend development (HTML, CSS, JavaScript).
+
+
+ Key Skills:
+Programming Languages: Python, Java
+Web Development: HTML, CSS, JavaScript
+Tools & Technologies: Git, VS Code, SQL
+Soft Skills: Teamwork, Time Management, Communication
+Currently exploring opportunities in software development, web technologies, and tech-for-good initiatives—especially in education, environment, and sports domains.<br>
 
 
 ## 🌐 Socials:
